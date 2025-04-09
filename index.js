@@ -11,6 +11,6 @@ function reverseWord(word) {
   else if (myWord != reversedWord){
     console.log(myWord + " is NOT a palindrome! Try again.");
   }
-
+// TO GET THEPROGRAM RUNNING, COPY PASTE THE JAVASCRIPT CODE INTO THE CONSOLE.
 
 
